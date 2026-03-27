@@ -1,0 +1,34 @@
+# Unity generated
+Temp/
+Logs/
+obj/
+Build/
+Builds/
+UserSettings/
+MemoryCaptures/
+
+# Unity generated project files
+*.csproj
+*.sln
+*.slnx
+*.unityproj
+
+# Unity cache
+[Ll]ibrary/
+[Ll]ibrary/**
+
+# Crash logs
+mono_crash.*.json
+
+# VS Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+*.user
+
+# macOS
+.DS_Store
+
+# Asset meta files should be tracked
+# !Assets/**/*.meta
